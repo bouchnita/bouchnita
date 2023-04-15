@@ -12,24 +12,14 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 - :watermelon: You can reach me via email (adil.bouchnita@ump.ac.ma) or linkedin
 
 
-<!-- BLOG-POST-LIST:START --
-- [Flipper Zero Rubber Ducky Parser](https://leosmith.xyz/blog/flipper-zero-ducky-parser.html)
-- [Android network recon automation](https://leosmith.xyz/blog/android-tasker-recon.html)
-- [Wifi Pineapple Karma Attack](https://leosmith.xyz/blog/wifi-pineapple-karma.html)
-- [Organisation In CyberSecurity](https://leosmith.xyz/blog/organisation-cybersecurity.html)
-- [LinkedIn Marketing Github Workflow](https://leosmith.xyz/blog/linkedin-marketing-workflow.html)
--- BLOG-POST-LIST:END -->
-
----
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/N0stradamus.png" alt="TryHackMe">
-<!--[![p4p1's hackthebox stats](http://www.hackthebox.eu/badge/image/311399)][hackthebox]-->
 
 
-[![p4p1's github stats](https://github-readme-stats.vercel.app/api?username=bouchnita&show_icons=true&theme=dracula)][website]
+
+[![bouchnita's github stats](https://github-readme-stats.vercel.app/api?username=bouchnita&show_icons=true&theme=dracula)][website]
 
 <!--
-**p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bouchnita/bouchnita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -51,8 +41,4 @@ repositories ranging from my personnal work to my portfolio projects and
 School Projects.
 -->
 
-[website]: https://leosmith.xyz
-[linkedin]: https://www.linkedin.com/in/leo-smith/
-[tryhackme]: https://tryhackme.com/p/p4p1
-[twitter]: https://twitter.com/p4p1_ls
-[hackthebox]: https://www.hackthebox.eu/home/users/profile/311399
+
