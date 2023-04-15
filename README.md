@@ -22,7 +22,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ---
 
-<script src="https://tryhackme.com/badge/1033663"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/N0stradamus.png" alt="TryHackMe">
 <!--[![p4p1's hackthebox stats](http://www.hackthebox.eu/badge/image/311399)][hackthebox]-->
 
 
