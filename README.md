@@ -9,7 +9,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 - :meat_on_bone: I'm currently working on my final year project and learning Web Application pentest
 - :tangerine: I spend the most of my day studying new things on hackthebox or tryhackme.
 - :tomato: I'm looking for summer internship
-- :watermelon: You can reach me via email (adil.bouchnita@ump.ac.ma) or linkedin
+- :watermelon: You can reach me via email (adil.bouchnita@ump.ac.ma) or linkedin [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Ilyass%20Elannid&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fadil%2Dbouchnita%2D557b0118b%2F)](https://www.linkedin.com/in/adil-bouchnita-557b0118b/)
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/N0stradamus.png" alt="TryHackMe">
