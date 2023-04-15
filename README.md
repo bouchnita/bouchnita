@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Adil+-+aka+N0stradanus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Adil+-+aka+N0stradanuss)](https://git.io/typing-svg)
 
 
 Let's hope my blind XSS description payload hits somewhere :penguin:
@@ -22,7 +22,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ---
 
-[![p4p1's tryhackme stats](https://raw.githubusercontent.com/N0stradamus/N0stradamus/master/assets/thm_propic.png)][tryhackme]
+<script src="https://tryhackme.com/badge/1033663"></script>
 <!--[![p4p1's hackthebox stats](http://www.hackthebox.eu/badge/image/311399)][hackthebox]-->
 
 
