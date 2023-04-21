@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Adil+-+aka+N0stradanusss-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Hey!+I'm+Adil+-+aka+N0stradamus)](https://git.io/typing-svg)
 
 
 Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :name_badge: I'm a Cyber Security student at ENSAO!
-<img align="right" src="https://c.tenor.com/OKO48giZVgwAAAAC/school-superbad.gif" />
+<!--<img align="right" src="https://c.tenor.com/OKO48giZVgwAAAAC/school-superbad.gif" /> -->
 
 - :meat_on_bone: I'm currently working on my final year project and learning some red team subjects
 - :tangerine: I spend the most of my day studying new things on hackthebox or tryhackme.
